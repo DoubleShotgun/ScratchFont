@@ -2,8 +2,10 @@
 A tool for converting font files (.ttf) to .sprite3 for making text engine in Scratch.
 
 ### Installing / Compiling
-For Linux users, Just run `make`.
-Windows users we'll have to compile the source code themselves.
+For Linux users:
+	First run `sudo apt-get install libcairo2-dev libfreetype-dev libzip-dev`.
+	Then just run `make`.
+Windows users will have to compile the source code themselves.
 
 ### Usage
 ```
