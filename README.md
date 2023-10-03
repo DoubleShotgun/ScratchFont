@@ -6,7 +6,7 @@ For Linux users:
 	First run `sudo apt-get install libcairo2-dev libfreetype-dev libzip-dev`. <br />
 	Then just run `make`.
 
-Windows users will have to compile the source code themselves.
+Windows users will have Windows Subsystem for Linux to compile and use the code.
 
 ### Usage
 ```
