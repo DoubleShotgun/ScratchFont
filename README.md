@@ -21,3 +21,8 @@ Options:
 
 ### Example
 To better understand this tool, I recommend you to look at the example folder.
+
+### Todo
+Alignment options
+Add a list with character width.
+A website version
